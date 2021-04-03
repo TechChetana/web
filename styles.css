@@ -9,14 +9,16 @@ font-family: 'Merriweather', serif;
 h1{
   margin: 0 auto 0 auto;
 font-family: 'Sacramento', cursive;
-color: #11999e;
+color: #66BFBF;
 font-size: 4rem;
+line-height: 2;
 }
 
 .top-para{
   font-family: 'Montserrat', sans-serif;
-  color: #11999e;
+  color: #66BFBF;
   font-size: 2rem;
+  font-weight: normal;
 }
 
 .bottom-cloud{
@@ -45,4 +47,32 @@ padding-top: 100px;
 
 p{
     font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+}
+
+h3 {
+  color: #11999E;
+
+}
+a{
+  color: #11999E
+}
+
+.skill-row {
+width: 50%;
+      margin: 100px auto 100px auto;
+      text-align: left;
+
+}
+
+.code-img{
+  width:25%;
+  float: left;
+margin-right: 30px;
+}
+
+.bake-img{
+  width:25%;
+    float: right;
+    margin-left: 30px;
 }
